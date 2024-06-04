@@ -1,0 +1,6 @@
+Hình dạng : Vuông , Chữ Nhật , Tam Giác.
+Màu sắc : Cam , Vàng , Xanh.
+(mấy cái khối này mình sẽ in 3d sau trước mắt mình đã có 4 phôi hình vuông với 4 phôi hình hộp chữ nhật rồi).
+
+Mục tiêu : sắp xếp các phôi dùng màu cùng dạng vào cùng 1 ô trên kho hàng.
+Trong trường hợp plate xuất hiện phôi không giống nhau trong cùng 1 đợt chuyển thì cánh tay sẽ không di chuyển plate đó.
